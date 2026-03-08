@@ -6,7 +6,7 @@
 
 ---
 
-## 🔗 [[View Live Interactivrde Dashboard](https://lnkd.in/gb9ty7n5)](#)
+## 🔗 [View Live Interactivrde Dashboard](https://lnkd.in/gb9ty7n5)
 *Add your Power BI publish link here*
 
 ---
